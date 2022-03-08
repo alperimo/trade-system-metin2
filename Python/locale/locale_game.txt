@@ -1,0 +1,4 @@
+ITEMKATEGORI	Ýtem kategorisi seç
+ITEMLERIM	Ýtemlerim
+ITEMADI	Adý
+SATICI	Satýcý
